@@ -1,0 +1,27 @@
+{
+  "name": "papel-web",
+  "version": "0.0.1",
+  "description": "Pagina web de empresa emprendimiento que se dedica a sistematización en la nube.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github/ederius/PW"
+  },
+  "keywords": [
+    "sistematización",
+    "diseño",
+    "web",
+    "Software",
+    "Barranquilla",
+    "Riohacha",
+    "La",
+    "Gaujira",
+    "Colombia",
+    "virtualización"
+  ],
+  "author": "Eder Diaz Toro <ederdiaz_@hotmail.com>",
+  "license": "ISC"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "papel-web",
+  "description": "Pagina web de empresa emprendimiento que se dedica a sistematización en la nube.",
+  "main": "index.html",
+  "authors": [
+    "Eder Diaz Toro <ederdiaz_@hotmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "sistematización",
+    "diseño",
+    "web",
+    "Software",
+    "Barranquilla",
+    "Riohacha",
+    "La Guajira",
+    "Colombia",
+    "virtualización"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.2",
+    "angular-route": "^1.6.2",
+    "jquery-mobile": "^1.4.5",
+    "fullpage.js": "^2.9.4",
+    "scrollreveal": "^3.3.5"
+  }
+}
